@@ -14,3 +14,8 @@ The Machine Learning Specialization from Stanford University, offered via DeepLe
 ## Relevant Links
 
 - [Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
+
+## Certification Details
+
+- **Completion Date:** August 2024
+- **Credential ID:** 2RE6LR3QZXIC
